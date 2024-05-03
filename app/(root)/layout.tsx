@@ -4,7 +4,7 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
   return (
     <div>
       <main>
-        Navbar
+        {/* Navbar */}
         {children}
         Footer
       </main>
